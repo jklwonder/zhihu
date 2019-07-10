@@ -423,5 +423,3 @@ const window = document.defaultView;
     };
     exports.ENCRYPT_VERSION = A,
     exports.default = b
-
-// console.log(b("client_id=c3cef7c66a1843f8b3a9e6a1e3160e20&grant_type=password&timestamp=1562667947100&source=com.zhihu.web&signature=76a4840fb0b6ee1378fa50be25e48c69c8e64d48&username=%2B8613795870040&password=herococo11&captcha=&lang=cn&utm_source=&ref_source=other_https%3A%2F%2Fwww.zhihu.com%2Fsignin%3Fnext%3D%252F"));

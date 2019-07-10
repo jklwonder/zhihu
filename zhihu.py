@@ -216,7 +216,7 @@ class ZhihuSpider():
 
 
 if __name__ == '__main__':
-    zhihu = ZhihuSpider(username='13795870040', password="herococo11.")
+    zhihu = ZhihuSpider(username='your_username', password="your_password")
     if zhihu.login():
         print('登陆成功')
     else:
